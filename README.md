@@ -2,7 +2,7 @@
 
 This is the official implementation of the techniques discussed in the paper [Enhancing Reinforcement Learning agents with Local Guides](https://hal.science/hal-04052358/file/Final_Reinforcement_Learning_with_Local_Guides.pdf).
 
-The same code can also be found in the [HEBO/RLLG]https://github.com/huawei-noah/HEBO/tree/master/RLLG() repository of Huawei.
+The same code can also be found in the [HEBO/RLLG](https://github.com/huawei-noah/HEBO/tree/master/RLLG) repository of Huawei.
 
 ## Create the conda virtual environment
 
